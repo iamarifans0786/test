@@ -1,0 +1,5 @@
+{{#user}
+Name: Arif Ansari
+Skills: HTML, CSS, JS, Bootstrap, React.js , Python, Django, REST API, MYSQL, SQLite 
+Email: arifansari739878@gmail.com
+{{/user}}
